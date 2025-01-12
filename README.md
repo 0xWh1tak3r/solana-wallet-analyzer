@@ -1,6 +1,6 @@
 # solana-wallet-analyzer
 
-Shyft API - USE CODE JTSFBI0D TO GET 10% OFF ON THEIR BILLING PLANS
+Shyft API - USE CODE Wh1tak3r TO GET 10% OFF ON THEIR BILLING PLANS
 
 Caution
 
@@ -139,11 +139,11 @@ Set `DEBUG=true` in the `.env` file to enable detailed logging.
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Lucifer1590/solana-transaction-analyzer/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/0xWh1tak3r/solana-transaction-analyzer/issues) if you want to contribute.
 
 ## Author
 
-Lucifer1590 - [Testingguy](https://github.com/Lucifer1590)
+0xWh1tak3r - [0xWh1tak3r](https://github.com/0xWh1tak3r)
 contact Discord - testingguy2
 ## Acknowledgments
 
